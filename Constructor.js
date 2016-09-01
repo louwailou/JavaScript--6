@@ -1,3 +1,4 @@
+// encoding = "utf-8"
   // 类A的构造函数
    var ClassA = function() {  
   
